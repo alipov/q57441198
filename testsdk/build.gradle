@@ -1,0 +1,9 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 28
+}
+
+dependencies {
+    implementation 'com.jakewharton.timber:timber:4.7.1'
+}
